@@ -14,3 +14,5 @@ C:\Users\nthol934\Source\Repos\BlasterMaster2\Blaster Master\obj\Release\Blaster
 C:\Users\nthol934\Source\Repos\BlasterMaster2\Blaster Master\obj\Release\BlasterMaster.exe
 C:\Users\nthol934\Source\Repos\BlasterMaster2\Blaster Master\obj\Release\BlasterMaster.pdb
 C:\Users\nthol934\Source\Repos\BlasterMaster2\Blaster Master\obj\Release\Blaster Master.csprojResolveAssemblyReference.cache
+C:\Users\slpar813\Source\Repos\StarTreckish\Blaster Master\obj\Release\BlasterMaster.exe
+C:\Users\slpar813\Source\Repos\StarTreckish\Blaster Master\obj\Release\BlasterMaster.pdb
