@@ -251,7 +251,7 @@ namespace BlasterMaster
                         }
                         else //- If level has just been completed then do end of level routine
                         {
-                            if (levelCompleted == true)
+                            if (levelCompleted == true || level == 3)
                             {
                                 if (!player.isDead())
                                 {
