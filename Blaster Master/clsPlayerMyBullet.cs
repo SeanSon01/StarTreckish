@@ -15,7 +15,6 @@ namespace BlasterMaster
         // Obj refs and instances
         private System.Drawing.Bitmap bullet;
         private ImageAttributes ImagingAtt = new ImageAttributes();
-        //NAte
         public clsPlayerMyBullet(int x, int y,bool Split) : base(x, y)
         {
             //------------------------------------------------------------------------------------------------------------------

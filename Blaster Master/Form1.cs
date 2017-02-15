@@ -599,7 +599,7 @@ namespace BlasterMaster
                 if (tScales.getTAcaleC() == 0)
                 {
                     // The odds of the invaders attacking increases with each new level 
-                    j = getRandomNumber(0, level + 10);
+                    j = getRandomNumber(0, level + 30);
 
                     // Random invader to apply moves to
                     i = getRandomNumber(0, 60);
@@ -621,7 +621,7 @@ namespace BlasterMaster
                         }
 
                         // The number of invaders atacking can not exceed the level number + 2
-                        if (t < (level + 2))
+                        if (t < (level + 20))
                         {
                             while (!(k == 1))
                             {
