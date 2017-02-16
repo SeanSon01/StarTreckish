@@ -28,3 +28,5 @@ C:\Users\slpar813\Source\Repos\StarTreckish\Blaster Master\obj\Release\Blaster M
 C:\Users\slpar813\Source\Repos\StarTreckish\Blaster Master\obj\Release\BlasterMaster.Form1.resources
 C:\Users\slpar813\Source\Repos\StarTreckish\Blaster Master\obj\Release\BlasterMaster.Properties.Resources.resources
 C:\Users\slpar813\Source\Repos\StarTreckish\Blaster Master\obj\Release\Blaster Master.csproj.GenerateResource.Cache
+C:\Users\slpar813\Source\Repos\StarTreckish\Blaster Master\bin\Release\BlasterMaster.exe
+C:\Users\slpar813\Source\Repos\StarTreckish\Blaster Master\bin\Release\BlasterMaster.pdb
