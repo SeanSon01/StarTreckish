@@ -143,12 +143,6 @@
     <None Include="Resources\enemyE2.bmp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\enemyF1.bmp" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\enemyF2.bmp" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\explosion1.bmp" />
   </ItemGroup>
   <ItemGroup>
@@ -203,10 +197,13 @@
     <None Include="Resources\enemyB1.bmp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\download - Copy.bmp" />
+    <None Include="Resources\enemyB2.bmp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\enemyB2.bmp" />
+    <Content Include="Resources\enemyF1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\enemyF2.bmp" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
