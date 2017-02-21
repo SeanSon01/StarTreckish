@@ -123,16 +123,6 @@ namespace BlasterMaster.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap download__2_ {
-            get {
-                object obj = ResourceManager.GetObject("download__2_", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap enemyA1 {
             get {
                 object obj = ResourceManager.GetObject("enemyA1", resourceCulture);
